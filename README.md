@@ -2,7 +2,6 @@
 ## 🚀 Technologies I use in my daily life
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -16,6 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVieira540&layout=donut&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 Current Focus
-- Responsive web and mobile development 🌐
-- Integration of solutions with Artificial Intelligence 🤖
-- Practical projects to solve real problems 🛠️
+- Integration of solutions with Artificial Intelligence 
+- Practical projects to solve real problems 🛠
