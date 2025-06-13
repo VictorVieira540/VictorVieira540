@@ -15,5 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVieira540&layout=donut&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 Current Focus
+- Responsive web and mobile development 
 - Integration of solutions with Artificial Intelligence 
-- Practical projects to solve real problems 🛠
+- Practical projects to solve real problems 
