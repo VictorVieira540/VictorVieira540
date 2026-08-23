@@ -1,6 +1,5 @@
 # 👋 Oi, sou Victor Vieira
-
-**Desenvolvedor Python** | **Graduando em SI - UFV CRP** | **IC em Visão Computacional**
+ **Graduando em SI - UFV CRP** | **IC em Visão Computacional**
 
 ---
 
